@@ -1,4 +1,4 @@
-# Langchain-LLMChain-Wikipedia-Agent
+# GPT-Agent webapp for substances using Langchain #
 Hi!
 
 This prototype Langchain substance GPT-agent webapp uses the LLMChain and WikipediaAPIWrapper functions from Langchain to query Wikipedia for multiple tasks in one run.
@@ -19,3 +19,5 @@ The following libraries are needed for the project:
 As always, the code is thoroughly commented.
 
 Have fun!
+
+<img width="548" alt="substance_agent_screenshot" src="https://github.com/march038/Langchain-LLMChain-Wikipedia-Agent/assets/140447879/e4a6eb8f-af94-4e2d-b3ca-700a38a29d24">
